@@ -15,9 +15,9 @@
 
 
 ## Connect with me
-- [Portfolio](https://bernanda0.github.io)
-- [LinkedIn](https://www.linkedin.com/in/bernanda-rai/)
-- [Instagram](https://www.instagram.com/bernanda.rai/)
+- [![Portfolio](https://img.shields.io/badge/Website-bernanda0.github.io-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://bernanda0.github.io)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-bernanda--rai-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernanda-rai/)
+- [![Instagram](https://img.shields.io/badge/Instagram-bernanda.rai-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bernanda.rai/)
 
 Feel free to check out my repositories and connect with me on social media!
 
