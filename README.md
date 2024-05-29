@@ -7,14 +7,14 @@
 🌟 Passionate about building the magic, **systems** and **services** behind the app.  
 🔧 Proficient in various programming languages and frameworks.  
 
-### Languages & Frameworks
+## Languages & Frameworks
 - Swift
 - Golang
 - Kotlin
 - Javascript
 - Python
 
-### Connect with me
+## Connect with me
 - [Portfolio](https://bernanda0.github.io)
 - [LinkedIn](https://www.linkedin.com/in/bernanda-rai/)
 - [Instagram](https://www.instagram.com/bernanda.rai/)
